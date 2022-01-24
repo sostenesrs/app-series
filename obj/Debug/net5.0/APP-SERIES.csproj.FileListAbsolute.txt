@@ -1,0 +1,16 @@
+C:\users\sóstenes\documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.csproj.AssemblyReference.cache
+C:\users\sóstenes\documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\sóstenes\documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.AssemblyInfoInputs.cache
+C:\users\sóstenes\documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.AssemblyInfo.cs
+C:\users\sóstenes\documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.csproj.CoreCompileInputs.cache
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.exe
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.deps.json
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.runtimeconfig.json
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.runtimeconfig.dev.json
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.dll
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\ref\APP-SERIES.dll
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\bin\Debug\net5.0\APP-SERIES.pdb
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.dll
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\ref\APP-SERIES.dll
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.pdb
+C:\Users\Sóstenes\Documents\DIO-PROJETO1\APP-SERIES\obj\Debug\net5.0\APP-SERIES.genruntimeconfig.cache
